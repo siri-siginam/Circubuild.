@@ -1,0 +1,6 @@
+{
+  "name": "CircuBuild - C&D Waste Reuse Exchange",
+  "description": "National circular marketplace for construction & demolition surplus materials across India, featuring active regional mapping for Andhra Pradesh & Telangana, INR metrics, and verified batch transfers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
